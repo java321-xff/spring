@@ -5,6 +5,7 @@ public class Xff {
 		// TODO Auto-generated method stub
  
 		String a = "33";
+		String aa = "123444";
 		System.out.println(a);
 	}
 
